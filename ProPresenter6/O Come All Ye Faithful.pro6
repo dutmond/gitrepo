@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2019-11-26T15:09:51+00:00" selectedArrangementID="" category="Song" resourcesDirectory="" notes="" CCLIAuthor="C. Frederick Oakley" CCLIArtistCredits="" CCLISongTitle="O Come All Ye Faithful" CCLIPublisher="Public Domain" CCLICopyrightYear="" CCLISongNumber="123456" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="0 0 1 1" uuid="CAAE60BA-8CA4-4C06-A7C0-F25BE798A406">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Group" notes="" UUID="8DFBB5D3-0F19-4911-9594-71592F192E77" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="EE6A75AD-0148-4128-89A1-DD0C4002AE11" displayName="Nativity2" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="1" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="Nativity2" UUID="ee6a75ad-0148-4128-89a1-dd0c4002ae11" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5Cdotun%5CAppData%5CRoaming%5CRenewedVision%5CProPresenter6%5CDefaultMedia%5CUsers%5Calbertobent%5CDesktop%5CSlide%20Backgrounds%5CChristmas%5CNativity2.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="3" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="2359f876-5466-4d3a-87bb-1c926d09e370" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="true" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{1417 127 0 1081 447}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0.333333333333333|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">IA==</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxMjBcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoICB9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIFxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0KfQ0KfQ==</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjYwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4gPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iNjAiIC8+PC9GbG93RG9jdW1lbnQ+</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4wPC9kMnAxOkE+PGQycDE6Qj4wPC9kMnAxOkI+PGQycDE6Rz4wPC9kMnAxOkc+PGQycDE6Uj4wPC9kMnAxOlI+PGQycDE6U2NBPjA8L2QycDE6U2NBPjxkMnAxOlNjQj4wPC9kMnAxOlNjQj48ZDJwMTpTY0c+MDwvZDJwMTpTY0c+PGQycDE6U2NSPjA8L2QycDE6U2NSPjwvT3V0bGluZUNvbG9yPjxPdXRsaW5lV2lkdGg+MDwvT3V0bGluZVdpZHRoPjxWYXJpYW50cz5Ob3JtYWw8L1ZhcmlhbnRzPjwvUlZGb250Pg==</NSString>
+            </RVTextElement>
+            <RVShapeElement displayName="ShapeElement" UUID="6e619948-2240-4f94-b686-eae2c4822d2d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="true" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="true" drawingShadow="false" drawingStroke="true" fillColor="0.168627450980392 0.0431372549019608 0.00392156862745098 0.43921568627451">
+              <RVRect3D rvXMLIvarName="position">{1410 219 0 946 449}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0.333333333333333|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">1</NSNumber>
+              </dictionary>
+            </RVShapeElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Verse 1" color="0 0 1 1" uuid="7FC8B0E4-D891-464B-9E0A-EE0BE0CA4FCA">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="F9CC5E64-8176-4004-AA18-2647A8079E61" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <RVMediaCue UUID="5C5AB739-3090-4D6B-A7E9-BC487185ABD5" displayName="Nativity2" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="1" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="Nativity2" UUID="5c5ab739-3090-4d6b-a7e9-bc487185abd5" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="C%3A%5CUsers%5Cdotun%5CAppData%5CRoaming%5CRenewedVision%5CProPresenter6%5CDefaultMedia%5CUsers%5Calbertobent%5CDesktop%5CSlide%20Backgrounds%5CChristmas%5CNativity2.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="3" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="3651d337-54e7-41d2-969e-b8f0b637f7be" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">TyBjb21lLCBhbGwgeWUgZmFpdGhmdWwNCkpveWZ1bCBhbmQgdHJpdW1waGFudA0KTyBjb21lIHllIA0KTyBjb21lIHllIHRvIEJldGhsZWhlbSE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSwgYWxsIHllIGZhaXRoZnVsfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBKb3lmdWwgYW5kIHRyaXVtcGhhbnR9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSB5ZSB9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSB5ZSB0byBCZXRobGVoZW0hfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUsIGFsbCB5ZSBmYWl0aGZ1bDwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5Kb3lmdWwgYW5kIHRyaXVtcGhhbnQ8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+TyBjb21lIHllIDwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUgeWUgdG8gQmV0aGxlaGVtITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="5E0D9FBF-A5A1-4682-B674-F8DCEEC1D6B6" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="2f0c86c9-c26a-48ab-9e3c-44a622e0df0f" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">Q29tZSBhbmQgYmVob2xkIEhpbQ0KQm9ybiB0aGUgS2luZyBvZiBhbmdlbHMg</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIENvbWUgYW5kIGJlaG9sZCBIaW19XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIEJvcm4gdGhlIEtpbmcgb2YgYW5nZWxzIH1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMgXGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp9DQp9</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5Db21lIGFuZCBiZWhvbGQgSGltPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiIHhtbDpzcGFjZT0icHJlc2VydmUiPkJvcm4gdGhlIEtpbmcgb2YgYW5nZWxzIDwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Chorus" color="1 0 0 1" uuid="2192230F-F237-408C-84C7-69CE0821288A">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="D500EBAF-F336-4680-8EAC-93236C82B159" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="60d9e567-e9b1-4d0b-a0ec-9ab6504f5a59" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltDQpPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW0NCk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbQ0KQ2hyaXN0LCB0aGUgTG9yZCE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbX1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTyBjb21lLCBsZXQgdXMgYWRvcmUgSGltfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW19XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIENocmlzdCwgdGhlIExvcmQhfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUsIGxldCB1cyBhZG9yZSBIaW08L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbTwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5DaHJpc3QsIHRoZSBMb3JkITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Verse 2" color="0 1 0 1" uuid="11026F86-5442-44ED-A24D-6BA8DF3A2BB0">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="2B1A1487-A807-4DE2-B3AB-5F13885E11EB" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="212150d1-d37c-41ec-90a0-0ae2ce4cd1b9" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">U2luZywgY2hvaXJzIG9mIGFuZ2Vscw0KU2luZyBpbiBleHVsdGF0aW9uDQpPLCBzaW5nIGFsbCB5ZSBicmlnaHQgaG9zdHMNCk9mIGhlYXYnbiBhYm92ZSE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIFNpbmcsIGNob2lycyBvZiBhbmdlbHN9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIFNpbmcgaW4gZXh1bHRhdGlvbn1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTywgc2luZyBhbGwgeWUgYnJpZ2h0IGhvc3RzfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBPZiBoZWF2J24gYWJvdmUhfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5TaW5nLCBjaG9pcnMgb2YgYW5nZWxzPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPlNpbmcgaW4gZXh1bHRhdGlvbjwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PLCBzaW5nIGFsbCB5ZSBicmlnaHQgaG9zdHM8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+T2YgaGVhdiduIGFib3ZlITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="5631356E-6BE8-4303-8729-05AFDD84B982" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="7684d850-4839-4242-b7fe-32f075452eb0" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">R2xvcnkgdG8gR29kDQpBbGwgZ2xvcnkgaW4gdGhlIGhpZ2hlc3QhIA==</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIEdsb3J5IHRvIEdvZH1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggQWxsIGdsb3J5IGluIHRoZSBoaWdoZXN0ISB9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIFxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0KfQ0KfQ==</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5HbG9yeSB0byBHb2Q8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+QWxsIGdsb3J5IGluIHRoZSBoaWdoZXN0ISA8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCIgLz48L0Zsb3dEb2N1bWVudD4=</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Chorus" color="1 0 0 1" uuid="5A6FE02E-0C8C-469F-8B06-23C7513FE931">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="325E6592-B0B3-4033-8C4C-8EC265E6EDBD" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="3f9c7a9c-4819-4581-8f6d-8cbc3e80eb92" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.16078431372549 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltDQpPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW0NCk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbQ0KQ2hyaXN0LCB0aGUgTG9yZCE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbX1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTyBjb21lLCBsZXQgdXMgYWRvcmUgSGltfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW19XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIENocmlzdCwgdGhlIExvcmQhfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUsIGxldCB1cyBhZG9yZSBIaW08L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbTwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5DaHJpc3QsIHRoZSBMb3JkITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Verse 3" color="1 0.498039215686275 0 1" uuid="E466C5E0-16D6-46D2-9B37-CA546F5A1E5D">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="07B45972-6F28-451A-A04F-1EF4CCDE604B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="396d72bf-6153-4b07-b248-17dee24e834d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">WWVhLCBMb3JkLCB3ZSBncmVldCBUaGVlDQpCb3JuIHRoaXMgaGFwcHkgbW9ybmluZw0KSmVzdXMsIHRvIFRoZWUgDQpCZSBhbGwgZ2xvcnkgZ2l2ZW4=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIFllYSwgTG9yZCwgd2UgZ3JlZXQgVGhlZX1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggQm9ybiB0aGlzIGhhcHB5IG1vcm5pbmd9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIEplc3VzLCB0byBUaGVlIH1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggQmUgYWxsIGdsb3J5IGdpdmVufVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5ZZWEsIExvcmQsIHdlIGdyZWV0IFRoZWU8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+Qm9ybiB0aGlzIGhhcHB5IG1vcm5pbmc8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+SmVzdXMsIHRvIFRoZWUgPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPkJlIGFsbCBnbG9yeSBnaXZlbjwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="5C863C9A-C77F-425D-A1F3-1AFCBA1C87FA" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="fca12e3a-1306-42cb-b4b5-c540748c98d3" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.168627450980392 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">V29yZCBvZiB0aGUgRmF0aGVyDQpOb3cgaW4gZmxlc2ggYXBwZWFyaW5nIQ==</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIFdvcmQgb2YgdGhlIEZhdGhlcn1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTm93IGluIGZsZXNoIGFwcGVhcmluZyF9XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIFxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0KfQ0KfQ==</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5Xb3JkIG9mIHRoZSBGYXRoZXI8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+Tm93IGluIGZsZXNoIGFwcGVhcmluZyE8L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCIgLz48L0Zsb3dEb2N1bWVudD4=</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Chorus" color="1 0 0 1" uuid="05F7015B-3872-4D97-B73C-072C42F6EFA7">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="145D8A5B-D329-40D4-9EBC-8C405DC29B4A" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="991c7605-d44d-4c2e-bcea-a05ead323e8b" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.16078431372549 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltDQpPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW0NCk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbQ0KQ2hyaXN0LCB0aGUgTG9yZCE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbX1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTyBjb21lLCBsZXQgdXMgYWRvcmUgSGltfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW19XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIENocmlzdCwgdGhlIExvcmQhfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUsIGxldCB1cyBhZG9yZSBIaW08L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbTwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5DaHJpc3QsIHRoZSBMb3JkITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Chorus" color="1 0 0 1" uuid="98C27560-55C4-4F19-9C2D-83FE0DC337B4">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="AD5526FC-D8E5-485B-A0FC-A3D97F40063B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Default" UUID="7bedf22d-d066-4922-ac22-4dfc06e67bc0" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="200" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0.454901960784314 0.247058823529412 0.16078431372549 0.298039215686275" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{55 46 0 1169 628}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{5, -5}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">1 1 1 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltDQpPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW0NCk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbQ0KQ2hyaXN0LCB0aGUgTG9yZCE=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYSBOZXVlO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O31cbG9jaFxoaWNoXGRiY2hccGFyZFxzbGxlYWRpbmcwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxNjBcb3V0bDBcc3Ryb2tld2lkdGgtMjBcc3Ryb2tlYzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIE8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbX1cbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCntcZjMge1xjZjJcbHRyY2ggTyBjb21lLCBsZXQgdXMgYWRvcmUgSGltfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyB7XGNmMlxsdHJjaCBPIGNvbWUsIGxldCB1cyBhZG9yZSBIaW19XGxpMFxzYTBcc2IwXGZpMFxxY1xwYXJ9DQp7XGYzIHtcY2YyXGx0cmNoIENocmlzdCwgdGhlIExvcmQhfVxsaTBcc2EwXHNiMFxmaTBccWNccGFyfQ0Ke1xmMyBcbGkwXHNhMFxzYjBcZmkwXHFjXHBhcn0NCn0NCn0=</NSString>
+              <NSString rvXMLIvarName="WinFlowData">PEZsb3dEb2N1bWVudCBUZXh0QWxpZ25tZW50PSJMZWZ0IiB4bWxucz0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93aW5meC8yMDA2L3hhbWwvcHJlc2VudGF0aW9uIj48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5PIGNvbWUsIGxldCB1cyBhZG9yZSBIaW08L1J1bj48L1NwYW4+PC9QYXJhZ3JhcGg+PFBhcmFncmFwaCBNYXJnaW49IjAsMCwwLDAiIFRleHRBbGlnbm1lbnQ9IkNlbnRlciIgRm9udEZhbWlseT0iSGVsdmV0aWNhIE5ldWUiIEZvbnRTaXplPSI4MCI+PFNwYW4gRm9yZWdyb3VuZD0iI0ZGRkZGRkZGIj48UnVuIEJsb2NrLlRleHRBbGlnbm1lbnQ9IkNlbnRlciI+TyBjb21lLCBsZXQgdXMgYWRvcmUgSGltPC9SdW4+PC9TcGFuPjwvUGFyYWdyYXBoPjxQYXJhZ3JhcGggTWFyZ2luPSIwLDAsMCwwIiBUZXh0QWxpZ25tZW50PSJDZW50ZXIiIEZvbnRGYW1pbHk9IkhlbHZldGljYSBOZXVlIiBGb250U2l6ZT0iODAiPjxTcGFuIEZvcmVncm91bmQ9IiNGRkZGRkZGRiI+PFJ1biBCbG9jay5UZXh0QWxpZ25tZW50PSJDZW50ZXIiPk8gY29tZSwgbGV0IHVzIGFkb3JlIEhpbTwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIj48U3BhbiBGb3JlZ3JvdW5kPSIjRkZGRkZGRkYiPjxSdW4gQmxvY2suVGV4dEFsaWdubWVudD0iQ2VudGVyIj5DaHJpc3QsIHRoZSBMb3JkITwvUnVuPjwvU3Bhbj48L1BhcmFncmFwaD48UGFyYWdyYXBoIE1hcmdpbj0iMCwwLDAsMCIgVGV4dEFsaWdubWVudD0iQ2VudGVyIiBGb250RmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSIgRm9udFNpemU9IjgwIiAvPjwvRmxvd0RvY3VtZW50Pg==</NSString>
+              <NSString rvXMLIvarName="WinFontData">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTE2Ij8+PFJWRm9udCB4bWxuczppPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9Qcm9QcmVzZW50ZXIuQ29tbW9uIj48S2VybmluZz4wPC9LZXJuaW5nPjxMaW5lU3BhY2luZz4wPC9MaW5lU3BhY2luZz48T3V0bGluZUNvbG9yIHhtbG5zOmQycDE9Imh0dHA6Ly9zY2hlbWFzLmRhdGFjb250cmFjdC5vcmcvMjAwNC8wNy9TeXN0ZW0uV2luZG93cy5NZWRpYSI+PGQycDE6QT4yNTU8L2QycDE6QT48ZDJwMTpCPjI1NTwvZDJwMTpCPjxkMnAxOkc+MjU1PC9kMnAxOkc+PGQycDE6Uj4yNTU8L2QycDE6Uj48ZDJwMTpTY0E+MTwvZDJwMTpTY0E+PGQycDE6U2NCPjE8L2QycDE6U2NCPjxkMnAxOlNjRz4xPC9kMnAxOlNjRz48ZDJwMTpTY1I+MTwvZDJwMTpTY1I+PC9PdXRsaW5lQ29sb3I+PE91dGxpbmVXaWR0aD4xPC9PdXRsaW5lV2lkdGg+PFZhcmlhbnRzPk5vcm1hbDwvVmFyaWFudHM+PC9SVkZvbnQ+</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements">
+    <RVSongArrangement name="Christmas 2012" uuid="4BCEBA1F-E75E-4220-9339-0EE83B135CC2" color="0 0 0 0">
+      <array rvXMLIvarName="groupIDs">
+        <NSString>7FC8B0E4-D891-464B-9E0A-EE0BE0CA4FCA</NSString>
+        <NSString>2192230F-F237-408C-84C7-69CE0821288A</NSString>
+        <NSString>11026F86-5442-44ED-A24D-6BA8DF3A2BB0</NSString>
+        <NSString>2192230F-F237-408C-84C7-69CE0821288A</NSString>
+        <NSString>E466C5E0-16D6-46D2-9B37-CA546F5A1E5D</NSString>
+        <NSString>2192230F-F237-408C-84C7-69CE0821288A</NSString>
+      </array>
+    </RVSongArrangement>
+    <RVSongArrangement name="Verse 1 chorus" uuid="2BF41173-DF33-400C-9424-6E28339B7266" color="0 0 0 0">
+      <array rvXMLIvarName="groupIDs">
+        <NSString>7FC8B0E4-D891-464B-9E0A-EE0BE0CA4FCA</NSString>
+        <NSString>2192230F-F237-408C-84C7-69CE0821288A</NSString>
+      </array>
+    </RVSongArrangement>
+  </array>
+</RVPresentationDocument>

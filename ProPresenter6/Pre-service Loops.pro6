@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2019-06-30T01:54:01+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="true" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="Group" color="0.301960784313725 0.301960784313725 0.301960784313725 1" uuid="AE231B55-40F9-4201-B9F5-63B50296B8FD">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Littles-welcome-02_resized" notes="" UUID="0E8F2639-B7B7-4E69-BF12-8651B676E96D" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="90711509-14D0-4E6E-8637-D451BAD5614C" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="8" />
+            <RVStageDisplayCue UUID="044FB81A-82E9-4C86-8381-CBF83E1EEC25" displayName="Stage Display" actionType="0" enabled="1" timeStamp="0" delayTime="0" layoutIndex="1" layoutUUID="98bee162-5f4c-4a96-9890-a7410b6a85d8" layoutName="Sermon View" />
+          </array>
+          <RVMediaCue UUID="9D918478-32BF-45C9-ACAE-40EA61448264" displayName="Littles-welcome-02_resized" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="Littles-welcome-02_resized" UUID="9d918478-32bf-45c9-acae-40ea61448264" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FImages%2FLittles-welcome-02_resized.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+    <RVSlideGrouping name="Group" color="0.498039215686275 0.498039215686275 0.498039215686275 1" uuid="6F599E16-D704-4840-8203-5E8053F1E44A">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="welcome-burns-02_resized" notes="" UUID="B1B97A0E-64EE-4872-B3CC-BAE2EDAD0856" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="D91BD960-09A7-4DF7-9CB7-66FF70FA2B2B" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="8" />
+          </array>
+          <RVMediaCue UUID="FD800C76-2020-450D-A9F7-8734C0669455" displayName="welcome-burns-02_resized" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="welcome-burns-02_resized" UUID="fd800c76-2020-450d-a9f7-8734c0669455" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FImages%2Fwelcome-burns-02_resized.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="2019-JOIN-digital_KBC Monitor" notes="" UUID="783E4564-6225-4B25-8B54-9E3F75186B7C" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="4809A996-1A24-4E3A-BCDE-796C2BE7BAE2" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="8" />
+          </array>
+          <RVMediaCue UUID="4BE7BBFF-9614-4C5A-8C3E-3720183887A9" displayName="2019-JOIN-digital_KBC Monitor" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="2019-JOIN-digital_KBC Monitor" UUID="4be7bbff-9614-4c5a-8c3e-3720183887a9" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FImages%2F2019-JOIN-digital_KBC%20Monitor.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="2019-JOIN-serve-digital_KBC Monitor" notes="" UUID="CBE0FB60-21B8-4E82-9B4D-4AD3E3AE2005" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="C78C219F-7073-4F91-AE98-96B2C6A4E186" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="false" duration="8" />
+          </array>
+          <RVMediaCue UUID="70AF5B98-2E00-4916-AB3B-21257335A220" displayName="2019-JOIN-serve-digital_KBC Monitor" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="2019-JOIN-serve-digital_KBC Monitor" UUID="70af5b98-2e00-4916-ab3b-21257335a220" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FImages%2F2019-JOIN-serve-digital_KBC%20Monitor.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="2019-NEW APP-digital_KBC Monitor" notes="" UUID="0F51BF2B-FCF9-4235-BC7A-3D783FC083BD" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVSlideTimerCue UUID="F714F6FF-054C-42D9-BBE8-963F5E1419ED" displayName="Go to Next" actionType="9" enabled="1" timeStamp="0" delayTime="0" loopToBeginning="true" duration="8" />
+          </array>
+          <RVMediaCue UUID="82F728A8-3A6C-4948-BC4E-2B2A286BDDD2" displayName="2019-NEW APP-digital_KBC Monitor" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="00000000-0000-0000-0000-000000000000" behavior="2" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVImageElement rvXMLIvarName="element" displayName="2019-NEW APP-digital_KBC Monitor" UUID="82f728a8-3a6c-4948-bc4e-2b2a286bddd2" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FImages%2F2019-NEW%20APP-digital_KBC%20Monitor.jpg" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVImageElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements">
+    <RVSongArrangement name="New Arrangement" uuid="8F17442B-4B9A-4891-919D-47A8DA3ECDC0" color="0 0 0 0">
+      <array rvXMLIvarName="groupIDs" />
+    </RVSongArrangement>
+  </array>
+</RVPresentationDocument>

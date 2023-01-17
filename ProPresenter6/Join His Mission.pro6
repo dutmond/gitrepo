@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 0" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2019-06-16T13:56:44+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="Group" color="0.333333333333333 0.333333333333333 0.333333333333333 1" uuid="73CC9A74-1417-4C61-8FA7-0F8617BAA0FC">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="0 0 0 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="Sunday_June_16_1080p" notes="" UUID="CC664FA0-6873-4BC9-BF4A-C7AB40F541DC" chordChartPath="">
+          <array rvXMLIvarName="cues">
+            <RVStageDisplayCue UUID="1B73B66E-5335-48F3-BF96-A3C789C40F0D" displayName="Stage Display" actionType="0" enabled="1" timeStamp="0" delayTime="0" layoutIndex="1" layoutUUID="98bee162-5f4c-4a96-9890-a7410b6a85d8" layoutName="Sermon View" />
+          </array>
+          <RVMediaCue UUID="EA2C933C-4EF6-4E3D-8817-B6F91AAD249E" displayName="Sunday_June_16_1080p" actionType="0" enabled="1" timeStamp="0" delayTime="0" tags="" nextCueUUID="5B18DB5E-E851-475B-A4FA-F2DB96886D73" behavior="1" alignment="4" dateAdded="" rvXMLIvarName="backgroundMediaCue">
+            <RVVideoElement rvXMLIvarName="element" displayName="Sunday_June_16_1080p" UUID="ea2c933c-4ef6-4e3d-8817-b6f91aad249e" displayDelay="0" locked="0" persistent="0" typeID="0" fromTemplate="0" bezelRadius="0" drawingFill="0" drawingShadow="0" drawingStroke="0" fillColor="1 1 1 1" rotation="0" source="file%3A%2F%2F%2FUsers%2FShared%2FRenewed%20Vision%20Media%2FVideo%2FSunday_June_16_1080p.mp4" flippedHorizontally="false" flippedVertically="false" scaleBehavior="0" manufactureURL="" manufactureName="" format="" scaleSize="{1.0, 1.0}" imageOffset="{0.0, 0.0}" frameRate="0" audioVolume="1" inPoint="0" outPoint="110762" playRate="1" playbackBehavior="0" timeScale="1000" endPoint="0" naturalSize="{0, 0}" fieldType="1">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 0 0}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 0|{0, 0}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="float">1.0</NSNumber>
+              </dictionary>
+              <array rvXMLIvarName="effects" />
+            </RVVideoElement>
+          </RVMediaCue>
+          <array rvXMLIvarName="displayElements" />
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
